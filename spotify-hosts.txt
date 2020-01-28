@@ -1,7 +1,3 @@
-# 0.0.0.0 spclient.wg.spotify.com
-# 0.0.0.0 audio-fa.scdn.co
-# 0.0.0.0 open.spotify.com
-
 0.0.0.0 media-match.com
 0.0.0.0 adclick.g.doublecklick.net
 0.0.0.0 www.googleadservices.com
@@ -557,7 +553,7 @@
 0.0.0.0 ad.doubleclick.net
 0.0.0.0 ade.googlesyndication.com
 0.0.0.0 adservice.google.com
-# 0.0.0.0 analytics.google.com
+0.0.0.0 analytics.google.com
 0.0.0.0 ee-in-f95.1.e100.net
 0.0.0.0 gcdn.2mdn.net
 0.0.0.0 s0-2mdn-net.l.google.com
@@ -749,7 +745,6 @@
 0.0.0.0 klara.lon.spotify.com
 0.0.0.0 investors.spotify.com
 0.0.0.0 indosatooredoo.spotify.com
-0.0.0.0 imqvs2qippm65n6g2qtyyqimyeggervnt64cyzl2x2fduo6g.tb6aoen5rgxsd3vrsm5x6257pe43ez5jpbpqs7mnhfd2gwpm.6p43cx5jyukului62krjkjbuw27drk43s2wizh2rqbzqnoix.rr4lyf2ny4j5pit663giazaneive3wnxoi67oietaezfarxq.nvkux5go6wfzevmi.er.spo.spotify.com
 0.0.0.0 heads-l3.spotify.com
 0.0.0.0 zayit.ap.spotify.com
 0.0.0.0 zayit.lon.spotify.com
@@ -764,11 +759,6 @@
 0.0.0.0 sgwww.spotify.com
 0.0.0.0 quicksilver.scdn.co
 0.0.0.0 pixel-static.spotify.com
-0.0.0.0 suk6mvixsl7e7pnqmcxzq2nlrv23orxa4lnmqehevie5lr46.qcfzwrpafytxzuzudly53cdpuinbus5dryc5yyluqfgstdbk.ifcouvs4yrkvq54g3sqlvxg6iwtieqko3d4z6g43c2na2xok.5l6armklu65sqea3msfquneq7rjwynp42nva5f7pl5qx4a7x.erz4onrdnlviivki.er.spo.spotify.com
-0.0.0.0 qm2adg47liahr7nsp3hu3do3v4rhjzv7o5z2e4gffuri4fzk.22aradra3s5midyr2lud47ipbxupxt52kzcmfsblo7zjty7a.sx2gdu6lcitzksm3d2zgxbxg5ppfc7mp7uanbvwjxq7wac2i.4doohcbyhkrp2eb4d7gsqareg6h5h73uespoxkefxgf23dua.dl6tyv4jcseeishe.er.spo.spotify.com
-0.0.0.0 pl35t7bb4aabglvz2i3btceznecjh4fka7m6ppyzdthifgcq.obfxt53kpvuicjyib3vacc5db3htskgk62k5tsonipsj2pty.yoyjueb2cieypg5vnrb5jpkuf52xxafpqf4ecynqzuz6s42t.tiox3ktdzfwwbcokrxi6o7huoya6iogdfo7ktcsdhkxakyjw.sg7cexr7oxb2d6ms.er.spo.spotify.com
-0.0.0.0 pl35t7bb4aabglvz2i3btceznecjh4fka7m6ppyzdthifgcq.obfxt53kpvuicjyib3vacc5db3htskgk62k5tsonipsj2pty.yoyjueb2cieypg5vnrb5jpkuf52xxafpqf4ecynqzuz6s42t.tiox3ktdzfwwbcokrxi6o7huoya6iogdfo7ktcsdhkxakyjw.sg7cexr7o7b2d6ms.er.spo.spotify.com
-0.0.0.0 gs5j7zyhogb53dmqmjfqljsq2ykksm3.spotify.com
 0.0.0.0 bug.spotify.com
 0.0.0.0 labels-canary.spotify.com
 0.0.0.0 bundling-integration.spotify.com
